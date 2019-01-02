@@ -1,0 +1,19 @@
+{
+  "name": "react_learning",
+  "version": "1.0.0",
+  "description": "package_json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomorethat/react_learning.git"
+  },
+  "author": "Lebedev Dmitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomorethat/react_learning/issues"
+  },
+  "homepage": "https://github.com/nomorethat/react_learning#readme"
+}
